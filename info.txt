@@ -1,0 +1,2 @@
+Info file documentation about git and GitHub practice.
+This is related to a part 3 of "Mandatory Practical Assignment"
